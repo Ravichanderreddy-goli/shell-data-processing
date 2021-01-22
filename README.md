@@ -24,4 +24,5 @@ curl "https://liftedlogic.com/3-examples-of-effective-homepage-design/?gclid=EAI
  ```bash
  tr ' ' '\12' < data.txt | sort | uniq -c | sort -nr > result.txt
  ```
- 
+ [data.txt]!(https://github.com/Ravichanderreddy-goli/shell-data-processing/blob/master/data.txt)
+ [results.txt]!(https://github.com/Ravichanderreddy-goli/shell-data-processing/blob/master/result.txt)
