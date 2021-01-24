@@ -1,5 +1,11 @@
 # shell-data-processing
 
+# Basic powershell commands
+* mkdir - create a new sub folder
+* cd - change directory in sub folder
+* ni - make an empty new item
+* ls - list the contents
+
 # Gitbash cheatsheet
 * Curl to the file
 ```bash
